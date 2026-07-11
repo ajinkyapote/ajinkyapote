@@ -162,9 +162,6 @@ const ajinkya = {
 ### 📈 Repository Activity History
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajinkyapote&bg_color=0d1117&color=ff8c00&line=ff6f00&point=ffffff&area=true&area_color=ff6f00&hide_border=false&border_color=ff6f00" width="95%" />
 
-### 🏆 System Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=ajinkyapote&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
-
 </div>
 
 ---
