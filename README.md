@@ -48,8 +48,8 @@ I am a **Senior Software Engineer** focused on building high-performance, scalab
   <img src="https://streak-stats.demolab.com/?user=ajinkyapote&theme=dark&hide_border=false" height="160" />
 </p>
 
-### 🧊 3D Contribution Graph
-![](https://github-profile-3d-contrib.vercel.app/api?username=ajinkyapote&theme=dark&type=fallback)
+### 📈 Contribution Activity Trend
+![](https://github-readme-activity-graph.vercel.app/graph?username=ajinkyapote&theme=github-dark)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajinkyapote&theme=radical&no-frame=false&no-bg=true&margin-w=4)
