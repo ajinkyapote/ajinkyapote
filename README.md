@@ -49,7 +49,7 @@ I am a **Senior Software Engineer** focused on building high-performance, scalab
 </p>
 
 ### 🧊 3D Contribution Graph
-![](https://github-profile-3d-contrib.vercel.app/api?username=ajinkyapote&theme=dark)
+![](https://github-profile-3d-contrib.vercel.app/api?username=ajinkyapote&theme=dark&type=fallback)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajinkyapote&theme=radical&no-frame=false&no-bg=true&margin-w=4)
