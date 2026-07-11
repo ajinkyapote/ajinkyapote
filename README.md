@@ -66,7 +66,7 @@ const ajinkya = {
 ### 🤖 AI, ML & Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda&theme=dark&perline=5" />
 <br/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-1a0500?style=for-the-badge&logo=huggingface&logoColor=ff8c00" />
+<img src="https://img.shields.io/badge/Pandas-1a0500?style=for-the-badge&logo=pandas&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/NumPy-1a0500?style=for-the-badge&logo=numpy&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Matplotlib-1a0500?style=for-the-badge&logo=plotly&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Keras-1a0500?style=for-the-badge&logo=keras&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Hugging%20Face-1a0500?style=for-the-badge&logo=huggingface&logoColor=ff8c00" />
 
 ### 💾 Databases, Caching & Auth
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite&theme=dark&perline=5" />
@@ -74,14 +74,14 @@ const ajinkya = {
 <img src="https://img.shields.io/badge/JWT-1a0500?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=ff8c00" />
 
 ### ☁️ Cloud, DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,docker,nginx,jenkins,githubactions,gitlab&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,docker,nginx,jenkins,githubactions,gitlab,rabbitmq&theme=dark&perline=10" />
 <br/>
-<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" /> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /> <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/DigitalOcean-1a0500?style=for-the-badge&logo=digitalocean&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Apache-1a0500?style=for-the-badge&logo=apache&logoColor=ff8c00" />
 
 ### 🛠️ Tools, Management & Design
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,postman,notion,figma&theme=dark&perline=7" />
 <br/>
-<img src="https://img.shields.io/badge/jira-1a0500?style=for-the-badge&logo=jira&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-1a0500?style=for-the-badge&logo=jira&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Canva-1a0500?style=for-the-badge&logo=canva&logoColor=ff8c00" />
 
 </div>
 
@@ -134,12 +134,6 @@ const ajinkya = {
 ## 💡 Core Engineering Insight
 
 > *"As a junior, you think programming is about writing code. As a senior, you realize programming is actually 10% writing code and 90% figuring out why the code you wrote yesterday isn't working today."*
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
 
 ---
 
