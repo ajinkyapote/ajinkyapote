@@ -1,12 +1,43 @@
-# 💫 About Me:
-# Hi, I'm Ajinkya Pote 👋
+<div align="center">
 
-I am a **Senior Software Engineer** focused on building high-performance, scalable web applications, optimizing backend architectures, and designing seamless API integrations.
+<!-- ================= HEADER BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ajinkya%20Pote&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20%7C%20Scalable%20Systems&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- ================= TYPING ANIMATION ================= -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+High-Performance+Web+Applications;Optimizing+Backend+Architectures;Designing+Seamless+API+Integrations;Full-Stack+Delivery+from+DB+to+UI)](https://git.io/typing-svg)
+
+<!-- ================= BADGES ROW ================= -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ajinkyapote&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ajinkyapote?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Architecture-2c5364?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Location-Navi%20Mumbai%2C%20IN-2c5364?style=for-the-badge" alt="location" />
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const ajinkya = {
+    role: "Senior Software Engineer",
+    focus: ["Scalable Web Applications", "Backend Architecture", "API Design"],
+    currentlyBuilding: "High-throughput platforms across logistics & insurance domains",
+    architecture: ["Microservices", "Event-Driven", "Queue-Based Pipelines"],
+    philosophy: "From schema design to polished React frontends — end to end.",
+    funFact: "90% of programming is figuring out why yesterday's code broke today 🐛"
+};
+```
 
 ### 🚀 Core Engineering Philosophy
-* **Scalable Architectures:** Designing robust backend systems capable of powering core business operations.
-* **Database Optimization:** Tuning complex SQL databases and handling advanced administration for high-throughput environments.
-* **Full-Stack Delivery:** Taking features from initial database schema design all the way to a polished React frontend.
+
+| Principle | What It Means |
+|---|---|
+| 🏗️ **Scalable Architectures** | Designing robust backend systems capable of powering core business operations |
+| ⚡ **Database Optimization** | Tuning complex SQL databases and handling advanced administration for high-throughput environments |
+| 🎯 **Full-Stack Delivery** | Taking features from initial database schema design all the way to a polished React frontend |
 
 ---
 
@@ -32,28 +63,86 @@ I am a **Senior Software Engineer** focused on building high-performance, scalab
 
 ---
 
-### 💡 Core Engineering Insight
-> "As a junior, you think programming is about writing code. As a senior, you realize programming is actually 10% writing code and 90% figuring out why the code you wrote yesterday isn't working today."
+## 🏗️ What I Do Best
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>⚙️ Backend Engineering</h3>
+      <p>REST APIs, queue-based pipelines, event-driven systems, and background job orchestration built for reliability at scale.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🗄️ Database Mastery</h3>
+      <p>Complex query tuning, indexing strategies, schema design, and administration for high-throughput OLTP workloads.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🖥️ Frontend Delivery</h3>
+      <p>Production-grade React & Next.js interfaces that turn robust backends into seamless user experiences.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 Development Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=ajinkyapote&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=ajinkyapote&theme=dark&hide_border=false" height="160" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=ajinkyapote&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+<img src="https://streak-stats.demolab.com/?user=ajinkyapote&theme=dark&hide_border=false" height="160" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ajinkyapote&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" />
 
 ### 📈 Repository Activity History
-![](https://github-readme-activity-graph.vercel.app/graph?username=ajinkyapote&theme=github-dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajinkyapote&theme=github-dark" width="95%" />
 
 ### 🏆 System Achievements
-![](https://github-profile-trophy.vercel.app/?username=ajinkyapote&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=ajinkyapote&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkyapote16)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajinkyapote005@gmail.com)
+## 💡 Core Engineering Insight
 
-[![](https://komarev.com/ghpvc/?username=ajinkyapote&icon=0&color=0)](https://visitcount.itsvg.in)
+> *"As a junior, you think programming is about writing code. As a senior, you realize programming is actually 10% writing code and 90% figuring out why the code you wrote yesterday isn't working today."*
+
+<div align="center">
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ajinkyapote/ajinkyapote/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<!--
+  To enable the snake animation, add this GitHub Action to your profile repo:
+  .github/workflows/snake.yml — see https://github.com/Platane/snk
+-->
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkyapote16)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajinkyapote005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajinkyapote)
+
+<br/>
+
+*💬 Open to discussing scalable architectures, backend optimization, and interesting engineering problems.*
+
+<!-- ================= FOOTER BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
