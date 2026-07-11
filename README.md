@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ajinkya Pote 👋
 
-<!--
-**ajinkyapote/ajinkyapote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior Software Engineer** focused on building high-performance, scalable web applications, optimizing backend architectures, and designing seamless API integrations. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Ecosystem
+* **Backend:** Node.js, PHP, Laravel, Python
+* **Frontend:** React.js, Tailwind CSS
+* **Databases & Tools:** SQL, Database Administration, API Design, System Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+* **Scalable Architectures:** Designing robust systems capable of powering core business operations.
+* **Database Optimization:** Tuning complex SQL databases and handling advanced administration for high-throughput environments.
+* **Full-Stack Delivery:** Taking features from initial database schema design all the way to a polished React frontend.
