@@ -69,14 +69,13 @@ const ajinkya = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="Pandas" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Hugging%20Face-1a0500?style=for-the-badge&logo=huggingface&logoColor=ff8c00" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="Hugging Face" />
 
 ### 💾 Databases, Caching & Auth
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite&theme=dark&perline=5" />
-<br/>
-<img src="https://img.shields.io/badge/JWT-1a0500?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=ff8c00" />
+<br/><br/>
+<img src="https://cdn.simpleicons.org/jsonwebtokens/ff8c00" width="48" height="48" alt="JWT" />
 
 ### ☁️ Cloud, DevOps & Infrastructure
 <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,docker,nginx,jenkins,githubactions,gitlab,rabbitmq&theme=dark&perline=10" />
@@ -127,6 +126,38 @@ const ajinkya = {
 <img src="https://streak-stats.demolab.com/?user=ajinkyapote&background=0d1117&ring=ff8c00&fire=ff6f00&currStreakLabel=ff8c00&sideLabels=ff8c00&currStreakNum=ffffff&sideNums=ffffff&dates=999999&border=ff6f00" height="160" />
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ajinkyapote&bg_color=0d1117&title_color=ff8c00&text_color=ffffff&border_color=ff6f00&include_all_commits=true&count_private=true&layout=compact" height="160" />
+
+### 🧊 3D Contribution City
+<img src="https://raw.githubusercontent.com/ajinkyapote/ajinkyapote/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution graph" />
+
+<!--
+  To enable the 3D graph, add this workflow to your profile repo at
+  .github/workflows/profile-3d.yml :
+
+  name: GitHub-Profile-3D-Contrib
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: actions/checkout@v4
+        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            USERNAME: ${{ github.repository_owner }}
+        - name: Commit & Push
+          run: |
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add -A .
+            git commit -m "generated" || true
+            git push
+-->
 
 ### 📈 Repository Activity History
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajinkyapote&bg_color=0d1117&color=ff8c00&line=ff6f00&point=ffffff&area=true&area_color=ff6f00&hide_border=false&border_color=ff6f00" width="95%" />
