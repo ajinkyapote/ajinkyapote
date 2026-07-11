@@ -131,32 +131,36 @@ const ajinkya = {
 <img src="https://raw.githubusercontent.com/ajinkyapote/ajinkyapote/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution graph" />
 
 <!--
-  To enable the 3D graph, add this workflow to your profile repo at
-  .github/workflows/profile-3d.yml :
+To enable the 3D graph, create .github/workflows/profile-3d.yml in this repo
+with EXACTLY the following content (top-level keys must start at column 0):
 
-  name: GitHub-Profile-3D-Contrib
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: actions/checkout@v4
-        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            USERNAME: ${{ github.repository_owner }}
-        - name: Commit & Push
-          run: |
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git add -A .
-            git commit -m "generated" || true
-            git push
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated" || true
+          git push
+
+Then run it once from the Actions tab (workflow_dispatch).
 -->
 
 ### 📈 Repository Activity History
