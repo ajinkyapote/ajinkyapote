@@ -1,12 +1,12 @@
 # 💫 About Me:
 # Hi, I'm Ajinkya Pote 👋
 
-[cite_start]I am a **Senior Software Engineer** focused on building high-performance, scalable web applications, optimizing backend architectures, and designing seamless API integrations. [cite: 16]
+I am a **Senior Software Engineer** focused on building high-performance, scalable web applications, optimizing backend architectures, and designing seamless API integrations.
 
 ### 🚀 Core Engineering Philosophy
-* [cite_start]**Scalable Architectures:** Designing robust backend systems capable of powering core business operations. [cite: 35]
-* [cite_start]**Database Optimization:** Tuning complex SQL databases and handling advanced administration for high-throughput environments. [cite: 35, 39]
-* [cite_start]**Full-Stack Delivery:** Taking features from initial database schema design all the way to a polished React frontend. [cite: 7, 11]
+* **Scalable Architectures:** Designing robust backend systems capable of powering core business operations.
+* **Database Optimization:** Tuning complex SQL databases and handling advanced administration for high-throughput environments.
+* **Full-Stack Delivery:** Taking features from initial database schema design all the way to a polished React frontend.
 
 ---
 
@@ -32,6 +32,11 @@
 
 ---
 
+### 💡 Core Engineering Insight
+> "As a junior, you think programming is about writing code. As a senior, you realize programming is actually 10% writing code and 90% figuring out why the code you wrote yesterday isn't working today."
+
+---
+
 ## 📊 GitHub Metrics:
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=ajinkyapote&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160" />
@@ -45,13 +50,10 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajinkyapote&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
 ## 🌐 Connect With Me:
-[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkyapote16) [cite: 4]
-[cite_start][![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajinkyapote005@gmail.com) [cite: 3]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkyapote16)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajinkyapote005@gmail.com)
 
 [![](https://komarev.com/ghpvc/?username=ajinkyapote&icon=0&color=0)](https://visitcount.itsvg.in)
