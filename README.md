@@ -37,7 +37,8 @@ I am a **Senior Software Engineer** focused on building high-performance, scalab
 
 ---
 
-## 📊 GitHub Metrics:
+## 📊 GitHub Metrics
+
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=ajinkyapote&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ajinkyapote&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" />
@@ -46,6 +47,9 @@ I am a **Senior Software Engineer** focused on building high-performance, scalab
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=ajinkyapote&theme=dark&hide_border=false" height="160" />
 </p>
+
+### 🧊 3D Contribution Graph
+![](https://github-profile-3d-contrib.vercel.app/api?username=ajinkyapote&theme=dark)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajinkyapote&theme=radical&no-frame=false&no-bg=true&margin-w=4)
