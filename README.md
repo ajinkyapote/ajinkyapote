@@ -65,8 +65,13 @@ const ajinkya = {
 
 ### 🤖 AI, ML & Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda&theme=dark&perline=5" />
-<br/>
-<img src="https://img.shields.io/badge/Pandas-1a0500?style=for-the-badge&logo=pandas&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/NumPy-1a0500?style=for-the-badge&logo=numpy&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Matplotlib-1a0500?style=for-the-badge&logo=plotly&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Keras-1a0500?style=for-the-badge&logo=keras&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Hugging%20Face-1a0500?style=for-the-badge&logo=huggingface&logoColor=ff8c00" />
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="Pandas" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Hugging%20Face-1a0500?style=for-the-badge&logo=huggingface&logoColor=ff8c00" />
 
 ### 💾 Databases, Caching & Auth
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite&theme=dark&perline=5" />
@@ -75,13 +80,15 @@ const ajinkya = {
 
 ### ☁️ Cloud, DevOps & Infrastructure
 <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,docker,nginx,jenkins,githubactions,gitlab,rabbitmq&theme=dark&perline=10" />
-<br/>
-<img src="https://img.shields.io/badge/DigitalOcean-1a0500?style=for-the-badge&logo=digitalocean&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Apache-1a0500?style=for-the-badge&logo=apache&logoColor=ff8c00" />
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" />
 
 ### 🛠️ Tools, Management & Design
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,postman,notion,figma&theme=dark&perline=7" />
-<br/>
-<img src="https://img.shields.io/badge/Jira-1a0500?style=for-the-badge&logo=jira&logoColor=ff8c00" /> <img src="https://img.shields.io/badge/Canva-1a0500?style=for-the-badge&logo=canva&logoColor=ff8c00" />
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
 
 </div>
 
