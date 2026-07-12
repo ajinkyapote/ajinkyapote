@@ -47,6 +47,33 @@ const ajinkya = {
 
 ---
 
+
+# 💡 Engineering Philosophy
+ 
+<table>
+<tr>
+<td width="33%" align="center">
+### 🏗 Architecture
+ 
+Design systems that remain maintainable even years later.
+ 
+</td>
+<td width="33%" align="center">
+### ⚡ Performance
+ 
+Every millisecond matters.
+ 
+</td>
+<td width="33%" align="center">
+### 🤝 Teamwork
+ 
+Good software is built by great collaboration.
+ 
+</td>
+</tr>
+</table>
+---
+
 ## 🛠️ Technical Arsenal
 
 <div align="center">
