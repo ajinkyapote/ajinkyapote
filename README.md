@@ -51,7 +51,9 @@ const ajinkya = {
 # 💡 Engineering Philosophy
  
 <table>
+  
 <tr>
+  
 <td width="33%" align="center">
   
 ### 🏗 Architecture
@@ -59,6 +61,7 @@ const ajinkya = {
 Design systems that remain maintainable even years later.
  
 </td>
+
 <td width="33%" align="center">
   
 ### ⚡ Performance
@@ -66,6 +69,7 @@ Design systems that remain maintainable even years later.
 Every millisecond matters.
  
 </td>
+
 <td width="33%" align="center">
   
 ### 🤝 Teamwork
@@ -73,7 +77,9 @@ Every millisecond matters.
 Good software is built by great collaboration.
  
 </td>
+
 </tr>
+
 </table>
 
 ---
