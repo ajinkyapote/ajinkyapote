@@ -146,6 +146,12 @@ Good software is built by great collaboration.
 
 ---
 
+# 📌 What Drives Me
+ 
+> "Great software isn't just code that works—it's code that scales, stays maintainable, and solves real problems elegantly."
+ 
+---
+
 ## 📊 Development Analytics
 
 <div align="center">
