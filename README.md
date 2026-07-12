@@ -98,12 +98,12 @@ My primary focus areas include:
 <div align="center"> 
     ### 💻 Languages 
     <img src="https://skillicons.dev/icons?i=go,js,ts,python,php,rust,ruby,swift,java,kotlin,dart&theme=dark&perline=11" />
-  ### 🚀 Backend & Web Frameworks <img
-    src="https://skillicons.dev/icons?i=laravel,nodejs,express,django,fastapi,flask,rails,spring,nestjs&theme=dark&perline=9" />
-  ### 🎨 Frontend & UI <img
-    src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,tailwind,html,css,sass&theme=dark&perline=9" />
-  ### 📱 Mobile Development <img
-    src="https://skillicons.dev/icons?i=flutter,swift,kotlin,react,dart,androidstudio,xcode,firebase&theme=dark&perline=8" />
+  ### 🚀 Backend & Web Frameworks 
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django,fastapi,flask,rails,spring,nestjs&theme=dark&perline=9" />
+  ### 🎨 Frontend & UI 
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,tailwind,html,css,sass&theme=dark&perline=9" />
+  ### 📱 Mobile Development 
+  <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,react,dart,androidstudio,xcode,firebase&theme=dark&perline=8" />
   ### 🤖 AI, ML & Data Science <img
     src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda&theme=dark&perline=5" /> <br /><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"
