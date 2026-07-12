@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= PREMIUM CUSTOM SVG BANNER ================= -->
-<img src="./assets/github-banner.svg" width="100%" alt="Ajinkya Pote GitHub Banner"/>
+<img src="assets/github-banner.svg" width="100%" alt="Ajinkya Pote GitHub Banner"/>
 
 <br/>
 
