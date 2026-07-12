@@ -72,6 +72,7 @@ Good software is built by great collaboration.
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Technical Arsenal
